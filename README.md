@@ -1,5 +1,7 @@
 # 📊 Power BI SLA Performance Dashboard
 
+![](image.png)
+
 ## 🔍 Overview
 
 This project is a Power BI dashboard designed to monitor and analyze **SLA (Service Level Agreement) compliance** across departments, countries, and ticket priorities. It helps stakeholders identify underperforming areas and track SLA performance over time.
